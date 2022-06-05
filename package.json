@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "revesion of data structures",
+  "main": "kthMaxMin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "kthMaxMin.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anant1222/-Anant-yadav.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anant1222/-Anant-yadav/issues"
+  },
+  "homepage": "https://github.com/anant1222/-Anant-yadav#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
